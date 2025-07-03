@@ -18,6 +18,7 @@ class Tester {
     
         void test_resize(Triangle t, float k, Triangle res);
     
+	
     private:
         int total_tests = 0;
         int test_successful = 0;
